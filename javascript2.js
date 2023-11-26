@@ -122,7 +122,7 @@
           image: "Wendys.jpg"
         },
         d: {
-          text: "Kamado Famly Meal",
+          text: "The Kamado Family Meal",
           image: "kamado.jpg"
         }
       },
